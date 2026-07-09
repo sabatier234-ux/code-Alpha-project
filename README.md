@@ -81,8 +81,4 @@ These projects were developed as part of the **CodeAlpha C++ Programming Interns
 
 ---
 
-## Author
 
-**Muhammad Tahir**
-
-GitHub: https://github.com/your-username
